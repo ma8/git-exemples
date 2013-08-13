@@ -1,0 +1,4 @@
+git status
+git status -s
+git diff
+git diff --cached

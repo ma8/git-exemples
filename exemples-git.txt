@@ -1,0 +1,9 @@
+p1-> foundation sass css3,responsive design.
+
+seed4-> angular + estructura carpetas personalizada:)
+seed1 -> angular seed + node.js + karma
+seed2 -> angular seed game + node.js + karma
+seed3 > angular seed + express
+seed5 -> geddy
+
+
